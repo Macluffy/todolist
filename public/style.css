@@ -1,0 +1,100 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.divstyle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 500px;
+
+}
+.divinterieur{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.divinterieur4{
+    
+}
+.addstyle{
+    height: 34px;
+    width: 100px;
+    color: rgb(52, 129, 202);
+    border:rgb(52, 129, 202) 1px solid;
+    border-radius: 5px;
+}
+.addstyle:hover{
+    background-color:rgb(52, 129, 202) ;
+    color: white;
+}
+
+input{
+    width: 350px;
+    height: 30px;
+    border: solid 1px rgb(182, 179, 179);
+    border-radius: 5px;
+}
+
+
+.h3style{
+    color: rgb(52, 129, 202);
+
+}
+.btnstyle{
+    height: 30px;
+    background-color:rgb(52, 129, 202) ;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    width: 60px;
+    margin: 15px;
+}
+.clearlistestyle{
+    height: 30px;
+    width: 350px;
+    background-color: rgb(163, 41, 82);
+    border:none;
+    color: white;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.divtache{
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    align-items: center;
+}
+#btnstyle2{
+    background-color: green;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    width: 60px;
+    margin: 15px;
+}
+#btnstyle3{
+    background-color: rgb(243, 54, 54);
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    width: 60px;
+    margin: 15px;
+}
+#btnstyle1{
+    height: 30px;
+    background-color:rgb(52, 129, 202) ;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    width: 60px;
+    margin: 15px;
+}
+.ptache{
+    width: 100px;
+    height: 30px;
+
+}
